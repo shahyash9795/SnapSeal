@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is at /res/layout/list.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#1e272c" >
+    
+    <ImageView
+        android:layout_above="@+id/browse"
+        android:layout_below="@+id/rev"
+        android:id="@+id/pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="centerInside" />
+
+    
+
+    <!-- 
+   
+   
+    
+        -->
+
+    <Button
+        android:id="@+id/browse"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/decbutton"
+        android:text=" Open Image "
+        android:textColor="#fff" />
+
+    <Button
+        android:id="@+id/rev"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/decbutton"
+        android:text=" Reveal "
+        android:textColor="#fff" />
+
+    <EditText
+        android:id="@+id/passwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/pic"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="Enter Your password"
+        android:textColor="#00b3e5"
+        android:textColorHint="#fff"  >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rev"
+        android:layout_centerHorizontal="true"
+        android:text="Your message will be displayed here"
+        android:textColor="#fff" />
+
+</RelativeLayout>

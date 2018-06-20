@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1fd55c5455ceb4a1f76679d6500b13a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/19e85328841b6d13f4914a6a0a0ad337/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cef6c1d210d553d0fe2506e1692643e0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f139643bce7a2c0479e747c656cd391a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84efae5adc422e37f9be4f3f1d609ccb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/14b77f4a0464047b76adcd385e271755/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e69cb86ecc3bf530f4d582486f2ba5a4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b575ca90eca26ab991f105f9ecefd48/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cb8782955c47011a1c596e97b91919ba/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fab0b6940375e795b27c30b110e06e07/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1fd55c5455ceb4a1f76679d6500b13a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1fd55c5455ceb4a1f76679d6500b13a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/19e85328841b6d13f4914a6a0a0ad337/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/19e85328841b6d13f4914a6a0a0ad337/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cef6c1d210d553d0fe2506e1692643e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cef6c1d210d553d0fe2506e1692643e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f139643bce7a2c0479e747c656cd391a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f139643bce7a2c0479e747c656cd391a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84efae5adc422e37f9be4f3f1d609ccb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84efae5adc422e37f9be4f3f1d609ccb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/14b77f4a0464047b76adcd385e271755/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/14b77f4a0464047b76adcd385e271755/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e69cb86ecc3bf530f4d582486f2ba5a4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e69cb86ecc3bf530f4d582486f2ba5a4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b575ca90eca26ab991f105f9ecefd48/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b575ca90eca26ab991f105f9ecefd48/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cb8782955c47011a1c596e97b91919ba/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cb8782955c47011a1c596e97b91919ba/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fab0b6940375e795b27c30b110e06e07/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fab0b6940375e795b27c30b110e06e07/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1fd55c5455ceb4a1f76679d6500b13a/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:10:22-78
+supports-screens
+ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:11:5-15:39
+	android:largeScreens
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:13:11-38
+	android:smallScreens
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:11:23-50
+	android:normalScreens
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:12:11-39
+	android:xlargeScreens
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:14:11-39
+	android:anyDensity
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:15:11-36
+application
+ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:17:5-37:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1fd55c5455ceb4a1f76679d6500b13a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1fd55c5455ceb4a1f76679d6500b13a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/19e85328841b6d13f4914a6a0a0ad337/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/19e85328841b6d13f4914a6a0a0ad337/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cef6c1d210d553d0fe2506e1692643e0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cef6c1d210d553d0fe2506e1692643e0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f139643bce7a2c0479e747c656cd391a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f139643bce7a2c0479e747c656cd391a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84efae5adc422e37f9be4f3f1d609ccb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84efae5adc422e37f9be4f3f1d609ccb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/14b77f4a0464047b76adcd385e271755/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/14b77f4a0464047b76adcd385e271755/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e69cb86ecc3bf530f4d582486f2ba5a4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e69cb86ecc3bf530f4d582486f2ba5a4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b575ca90eca26ab991f105f9ecefd48/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b575ca90eca26ab991f105f9ecefd48/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cb8782955c47011a1c596e97b91919ba/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cb8782955c47011a1c596e97b91919ba/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fab0b6940375e795b27c30b110e06e07/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fab0b6940375e795b27c30b110e06e07/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:19:9-42
+	android:allowBackup
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:21:9-40
+activity#com.learn2crack.tab.FadeInActivity
+ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:22:9-31:20
+	android:screenOrientation
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:24:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.learn2crack.tab.MainActivity
+ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:32:9-36:20
+	android:screenOrientation
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /Users/yashshah/Desktop/snapseal/app/src/main/AndroidManifest.xml:34:13-60
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1fd55c5455ceb4a1f76679d6500b13a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/19e85328841b6d13f4914a6a0a0ad337/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/19e85328841b6d13f4914a6a0a0ad337/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cef6c1d210d553d0fe2506e1692643e0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/cef6c1d210d553d0fe2506e1692643e0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f139643bce7a2c0479e747c656cd391a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/f139643bce7a2c0479e747c656cd391a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84efae5adc422e37f9be4f3f1d609ccb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84efae5adc422e37f9be4f3f1d609ccb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/14b77f4a0464047b76adcd385e271755/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/14b77f4a0464047b76adcd385e271755/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e69cb86ecc3bf530f4d582486f2ba5a4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e69cb86ecc3bf530f4d582486f2ba5a4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b575ca90eca26ab991f105f9ecefd48/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/0b575ca90eca26ab991f105f9ecefd48/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cb8782955c47011a1c596e97b91919ba/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cb8782955c47011a1c596e97b91919ba/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1fd55c5455ceb4a1f76679d6500b13a/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e1fd55c5455ceb4a1f76679d6500b13a/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fab0b6940375e795b27c30b110e06e07/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fab0b6940375e795b27c30b110e06e07/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/yashshah/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fab0b6940375e795b27c30b110e06e07/AndroidManifest.xml:26:13-58

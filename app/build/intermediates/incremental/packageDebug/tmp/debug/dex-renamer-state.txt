@@ -1,0 +1,4 @@
+#Mon Apr 09 10:48:49 EDT 2018
+base.0=/Users/yashshah/Desktop/snapseal/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

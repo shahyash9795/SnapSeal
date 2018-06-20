@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is at /res/layout/list.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#1e272c" >
+
+   <Button
+        android:layout_gravity="top"
+        android:id="@+id/tgb1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/op"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="85dp"
+        android:textColor="#fff"
+        android:background="@drawable/decbutton"
+        android:text=" Hide It " /> 
+    
+    <ImageView
+       
+        android:layout_below="@+id/tgb1"
+        android:id="@+id/image4"
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_centerHorizontal="true"
+        android:scaleType="centerInside" />
+
+    
+
+  <!--     <TextView
+        android:id="@+id/op"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="48dp"
+        android:textColor="#fff"
+        android:text="TextView" />--> 
+
+   
+   
+    
+        
+
+    <Button
+        android:id="@+id/open"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/decbutton"
+        android:text=" Openimage "
+        android:textColor="#fff" />
+
+    <EditText
+        android:id="@+id/et2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/open"
+        android:layout_alignParentRight="true"
+        android:singleLine="true"
+        android:ems="10"
+        android:hint="Password(3to8)"
+        android:textColor="#00b3e5"
+        android:textColorHint="#fff" />
+
+    <EditText
+        android:id="@+id/et1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_alignBottom="@+id/et2"
+        android:layout_alignParentLeft="true"
+        android:ems="10"
+        android:hint="@string/message"
+        android:textColor="#00b3e5"
+        android:textColorHint="#fff" >
+
+        <requestFocus />
+    </EditText>
+
+
+</RelativeLayout>
